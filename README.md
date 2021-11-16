@@ -1,4 +1,4 @@
-<img src="images/banner.png">
+<img src="images//banner/banner-black.png">
 
 ### Hi there 👋 You are reading my README.md!
 - 🙋‍♂️ 22 y/o
@@ -14,21 +14,21 @@
 
 
 ### Get in touch
-[<img alt="Instagram" src="images/instagram.svg" width="32" height="32"/>][instagram] [<img alt="Facebook" src="images/facebook.svg" width="32" height="32"/>][facebook]
+[<img alt="Instagram" src="images/icons/instagram.svg" width="32" height="32"/>][instagram] [<img alt="Facebook" src="images/icons/facebook.svg" width="32" height="32"/>][facebook]
 
 
 ### Known languages
 <p float="left">
-  <img src="images/java.svg" width="32" height="32"/>
-  <img src="images/javascript.svg" width="32" height="32"/>
-  <img src="images/typescript.svg" width="32" height="32"/>
-  <img src="images/html5.svg" width="32" height="32"/>
-  <img src="images/css3.svg" width="32" height="32"/>
-  <img src="images/angular.svg" width="32" height="32"/>
-  <img src="images/ionic.svg" width="32" height="32"/>
-  <img src="images/nodedotjs.svg" width="32" height="32"/>
-  <img src="images/postgresql.svg" width="32" height="32"/>
-  <img src="images/mysql.svg" width="32" height="32"/>
+  <img src="images/icons/java.svg" width="32" height="32"/>
+  <img src="images/icons/javascript.svg" width="32" height="32"/>
+  <img src="images/icons/typescript.svg" width="32" height="32"/>
+  <img src="images/icons/html5.svg" width="32" height="32"/>
+  <img src="images/icons/css3.svg" width="32" height="32"/>
+  <img src="images/icons/angular.svg" width="32" height="32"/>
+  <img src="images/icons/ionic.svg" width="32" height="32"/>
+  <img src="images/icons/nodedotjs.svg" width="32" height="32"/>
+  <img src="images/icons/postgresql.svg" width="32" height="32"/>
+  <img src="images/icons/mysql.svg" width="32" height="32"/>
 </p>
 
 [instagram]: https://www.instagram.com/tommaso.catervi/

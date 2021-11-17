@@ -9,7 +9,7 @@
 - 💻 Tech enthusiast!
 
 ### At the moment I'm
-- 🎓 Pursuing a [Bacheleror Degree in Computer Science](http://www.cs.unicam.it) at the [University of Camerino](http://www.unicam.it/)
+- 🎓 Pursuing a [Bachelor Degree in Computer Science](http://www.cs.unicam.it) at the [University of Camerino](http://www.unicam.it/)
 - 📚 Attending courses of the [Master Degree in Computer Science](http://www.cs.unicam.it) at the [University of Camerino](http://www.unicam.it/)
 
 

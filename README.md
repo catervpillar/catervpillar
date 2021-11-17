@@ -1,4 +1,4 @@
-<img src="images//banner/banner-black.png">
+<img src="images//banner/banner.png">
 
 ### Hi there 👋 You are reading my README.md!
 - 🙋‍♂️ 22 y/o

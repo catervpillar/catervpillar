@@ -1,12 +1,6 @@
 <img src="images//banner/banner.png">
 
-### Hi there 👋 You are reading my README.md!
-- 🙋‍♂️ 22 y/o
-- 📍 From Italy
-- 👨‍🎓 Student
-- 🎧 Music lover
-- 🎸 Guitarist
-- 💻 Tech enthusiast!
+### 👨‍💻 22 y/o  📍 Italy  👨‍🎓 Student 🎧 Music lover  🎸 Guitarist  💻 Tech enthusiast!
 
 ### At the moment I'm
 - 🎓 Pursuing a [Bachelor Degree in Computer Science](http://www.cs.unicam.it) at the [University of Camerino](http://www.unicam.it/)
@@ -14,10 +8,12 @@
 
 
 ### Get in touch
-[<img alt="Instagram" src="images/icons/instagram.svg" width="32" height="32"/>][instagram] [<img alt="Facebook" src="images/icons/facebook.svg" width="32" height="32"/>][facebook]
+<!-- [<img alt="Instagram" src="images/icons/instagram.svg" width="32" height="32"/>][instagram] [<img alt="Facebook" src="images/icons/facebook.svg" width="32" height="32"/>][facebook] -->
+[![](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&color=0077b5)][linkedin]
+[![](https://img.shields.io/badge/-Instagram-0077B5?style=for-the-badge&logo=Instagram&logoColor=white&color=AC4142)][instagram]
+[![](https://img.shields.io/badge/-Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white&color=4867aa)][facebook]
 
-
-### Known languages
+### I've worked with
 <p float="left">
   <img src="images/icons/java.svg" width="32" height="32"/>
   <img src="images/icons/javascript.svg" width="32" height="32"/>
@@ -33,3 +29,4 @@
 
 [instagram]: https://www.instagram.com/tommaso.catervi/
 [facebook]: https://www.facebook.com/tommaso.catervi/
+[linkedin]: https://www.linkedin.com/in/tommasocatervi/

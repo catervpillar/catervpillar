@@ -1,4 +1,4 @@
-<img src="images//banner/banner.png">
+<img src="images/readme_banner.png">
 
 ### 👨‍💻 22 y/o  📍 Italy  👨‍🎓 Student 🎧 Music lover  🎸 Guitarist  💻 Tech enthusiast!
 

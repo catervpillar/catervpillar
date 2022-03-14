@@ -2,9 +2,9 @@
 
 ### 👨‍💻 22 y/o  📍 Italy  👨‍🎓 Student 🎧 Music lover  🎸 Guitarist  💻 Tech enthusiast!
 
-### At the moment I'm
-- 🎓 Pursuing a [Bachelor Degree in Computer Science](http://www.cs.unicam.it) at the [University of Camerino](http://www.unicam.it/)
-- 📚 Attending courses of the [Master Degree in Computer Science](http://www.cs.unicam.it) at the [University of Camerino](http://www.unicam.it/)
+<!-- ### At the moment I'm -->
+- 🎓 Graduated in [Computer Science](http://www.cs.unicam.it) at [University of Camerino](http://www.unicam.it/)
+- 📚 Attending courses of the [Master Degree in Computer Science](http://www.cs.unicam.it) at [University of Camerino](http://www.unicam.it/)
 
 
 ### Get in touch

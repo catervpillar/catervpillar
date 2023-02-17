@@ -16,7 +16,7 @@
 
 ### I've worked with
 <p float="left">
-  <img src="images/icons/png/java.svg" width="36" height="36"/>
+  <img src="images/icons/png/java.png" width="36" height="36"/>
   <img src="images/icons/png/javascript.png" width="36" height="36"/>
   <img src="images/icons/png/typescript.png" width="36" height="36"/>
   <img src="images/icons/png/html5.png" width="36" height="36"/>

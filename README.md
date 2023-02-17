@@ -21,7 +21,7 @@
   <img src="images/icons/typescript.svg" width="32" height="32"/>
   <img src="images/icons/html5.svg" width="32" height="32"/>
   <img src="images/icons/css3.svg" width="32" height="32"/>
-  <img src="images/icons/react.svg" width="32" height="32"/>
+  <img src="images/icons/react.svg" width="32" height="32" background-color="#61DAFB"/>
   <img src="images/icons/angular.svg" width="32" height="32"/>
   <img src="images/icons/ionic.svg" width="32" height="32"/>
   <img src="images/icons/nodedotjs.svg" width="32" height="32"/>

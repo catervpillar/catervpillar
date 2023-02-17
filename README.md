@@ -16,17 +16,17 @@
 
 ### I've worked with
 <p float="left">
-  <img src="images/icons/java.svg" width="32" height="32"/>
-  <img src="images/icons/javascript.svg" width="32" height="32"/>
-  <img src="images/icons/typescript.svg" width="32" height="32"/>
-  <img src="images/icons/html5.svg" width="32" height="32"/>
-  <img src="images/icons/css3.svg" width="32" height="32"/>
-  <img src="images/icons/react.svg" width="32" height="32" background-color="#61DAFB"/>
-  <img src="images/icons/angular.svg" width="32" height="32"/>
-  <img src="images/icons/ionic.svg" width="32" height="32"/>
-  <img src="images/icons/nodedotjs.svg" width="32" height="32"/>
-  <img src="images/icons/postgresql.svg" width="32" height="32"/>
-  <img src="images/icons/mysql.svg" width="32" height="32"/>
+  <img src="images/icons/png/java.svg" width="32" height="32"/>
+  <img src="images/icons/png/javascript.png" width="32" height="32"/>
+  <img src="images/icons/png/typescript.png" width="32" height="32"/>
+  <img src="images/icons/png/html5.png" width="32" height="32"/>
+  <img src="images/icons/png/css3.png" width="32" height="32"/>
+  <img src="images/icons/png/react.png" width="32" height="32"/>
+  <img src="images/icons/png/angular.png" width="32" height="32"/>
+  <img src="images/icons/png/ionic.png" width="32" height="32"/>
+  <img src="images/icons/png/nodedotjs.png" width="32" height="32"/>
+  <img src="images/icons/png/postgresql.png" width="32" height="32"/>
+  <img src="images/icons/png/mysql.png" width="32" height="32"/>
 </p>
 
 [instagram]: https://www.instagram.com/tommaso.catervi/

@@ -15,19 +15,6 @@
 [![](https://img.shields.io/badge/-Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white&color=4867aa)][facebook]
 
 ### I've worked with
-<p float="left">
-  <img src="images/icons/java.svg" width="32" height="32"/>
-  <img src="images/icons/javascript.svg" width="32" height="32"/>
-  <img src="images/icons/typescript.svg" width="32" height="32"/>
-  <img src="images/icons/html5.svg" width="32" height="32"/>
-  <img src="images/icons/css3.svg" width="32" height="32"/>
-  <img src="images/icons/react.svg" width="32" height="32" background-color="#61DAFB"/>
-  <img src="images/icons/angular.svg" width="32" height="32"/>
-  <img src="images/icons/ionic.svg" width="32" height="32"/>
-  <img src="images/icons/nodedotjs.svg" width="32" height="32"/>
-  <img src="images/icons/postgresql.svg" width="32" height="32"/>
-  <img src="images/icons/mysql.svg" width="32" height="32"/>
-</p>
 
 [instagram]: https://www.instagram.com/tommaso.catervi/
 [facebook]: https://www.facebook.com/tommaso.catervi/

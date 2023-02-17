@@ -3,8 +3,9 @@
 ### 👨‍💻 23 y/o  📍 Italy  👨‍🎓 Student 🎧 Music lover  🎸 Guitarist  💻 Tech enthusiast!
 
 <!-- ### At the moment I'm -->
-- 🎓 Graduated in [Computer Science](http://www.cs.unicam.it) at [University of Camerino](http://www.unicam.it/)
-- 📚 Attending courses of the [Master Degree in Computer Science](http://www.cs.unicam.it) at [University of Camerino](http://www.unicam.it/)
+- 🎓 BSc in [Computer Science](http://www.cs.unicam.it) at [University of Camerino](http://www.unicam.it/) (IT)
+- 📚 Pursuing a [Master Degree in Computer Science](http://www.cs.unicam.it) at [University of Camerino](http://www.unicam.it/) (IT)
+- 🌎 Erasmus+ exchange student at [Reykjavík University](https://en.ru.is) (IS)
 
 
 ### Get in touch
@@ -20,6 +21,7 @@
   <img src="images/icons/typescript.svg" width="32" height="32"/>
   <img src="images/icons/html5.svg" width="32" height="32"/>
   <img src="images/icons/css3.svg" width="32" height="32"/>
+  <img src="images/icons/react.svg" width="32" height="32"/>
   <img src="images/icons/angular.svg" width="32" height="32"/>
   <img src="images/icons/ionic.svg" width="32" height="32"/>
   <img src="images/icons/nodedotjs.svg" width="32" height="32"/>

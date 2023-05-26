@@ -1,6 +1,6 @@
 <img src="images/readme_banner.png">
 
-### 👨🏻‍💻 23 y/o  |   🇮🇹 Italy  👨🏻‍🎓 Student 🎧 Music lover  🎸 Guitarist  💻 Tech enthusiast!
+### 👨🏻‍💻 24 y/o  |   🇮🇹 Italy  👨🏻‍🎓 Student 🎧 Music lover  🎸 Guitarist  💻 Tech enthusiast!
 
 <!-- ### At the moment I'm -->
 - 🎓 BSc in Computer Science at [University of Camerino](http://www.unicam.it/) (IT)

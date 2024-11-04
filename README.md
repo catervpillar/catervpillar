@@ -1,10 +1,9 @@
 <img src="images/readme_banner.png">
 
-### 👨🏻‍💻 24 y/o  |   🇮🇹 Italy  👨🏻‍🎓 Student 🎧 Music lover  🎸 Guitarist  💻 Tech enthusiast!
+### 👨🏻‍💻 25 y/o  |   🇮🇹 Italy  👨🏻‍🎓 Student 🎧 Music lover  🎸 Guitarist  💻 Tech enthusiast!
 
 <!-- ### At the moment I'm -->
-- 🎓 BSc in Computer Science at [University of Camerino](http://www.unicam.it/) (IT)
-- 📚 Pursuing a Master's Degree in Computer Science at [University of Camerino](http://www.unicam.it/) (IT)
+- 🎓 MSc in Computer Science at [University of Camerino](http://www.unicam.it/) (IT)
 - 🌎 Erasmus+ exchange student at [Reykjavík University](https://en.ru.is) (IS)
 
 
